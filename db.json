@@ -1,0 +1,44 @@
+{
+    "simdata": [
+        {
+            "simName": "Test1",
+            "simStart": 1,
+            "simPeriod": 5,
+            "conc": 500,
+            "trader": 300,
+            "salesAmount": 300000,
+            "salesPrice": 89,
+            "seaFluc": true
+        },
+        {
+            "simName": "Test2",
+            "simStart": 52,
+            "simPeriod": 10,
+            "conc": 300,
+            "trader": 700,
+            "salesAmount": 530000,
+            "salesPrice": 99,
+            "seaFluc": false
+        }
+    ],
+    "result": [
+        {
+            "id": 1,
+            "simName": "Test1",
+            "kw": 5,
+            "event": "Fasching",
+            "salesAmount": 50,
+            "revenue": 1278,
+            "achieved": 20
+        },
+        {
+            "id": 2,
+            "simName": "Test2",
+            "kw": 38,
+            "event": "Grillsaison",
+            "salesAmount": 300,
+            "revenue": 5899,
+            "achieved": 70
+        }
+    ]
+}
