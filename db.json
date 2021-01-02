@@ -27,12 +27,12 @@
             "simName": "Test1",
             "simStart": 5,
             "simPeriod": 3,
-            "kw": 5, 6, 7,
-            "event": "Fasching", "Weihnachten",
+            "kw": [5, 6, 7],
+            "event": ["Fasching", "Weihnachten"],
             "salesAmountPlanned": 200,
-            "salesAmountAchieved": 50, 30, 10,
-            "revenue": 87, 530, 1278,
-            "achievedPercentaged": 5, 35, 87
+            "salesAmountAchieved": [50, 30, 10],
+            "revenue": [87, 530, 1278],
+            "achievedPercentaged": [5, 35, 87]
         },
         {
             "id": 2,
