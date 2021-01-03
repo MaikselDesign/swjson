@@ -45,6 +45,18 @@
             "salesAmountAchieved": [50, 30, 10, 5, 70],
             "revenue": [220, 700, 1500, 3040, 5899],
             "achievedPercentaged": [0.5, 13, 22, 65, 110]
+        },
+        {
+            "id": 3,
+            "simName": "Test3",
+            "simStart": 22,
+            "simPeriod": 1,
+            "kw": 22,
+            "event": "",
+            "salesAmountPlanned": 50,
+            "salesAmountAchieved": 45,
+            "revenue": 200,
+            "achievedPercentaged": 95
         }
     ]
 }
