@@ -31,7 +31,7 @@
             "event": ["Fasching", "Weihnachten"],
             "salesAmountPlanned": 200,
             "salesAmountAchieved": [50, 30, 10],
-            "salesAmountAchievedTotal": 90,
+            "salesAmountAchievedTotal": 25,
             "revenue": [87, 530, 1278],
             "revenueTotal": 1860,
             "achievedPercentaged": [5, 35, 87]
@@ -45,7 +45,7 @@
             "event": ["Grillsaison", "Ostern", "whatever"],
             "salesAmountPlanned": 300,
             "salesAmountAchieved": [50, 30, 10, 5, 70],
-            "salesAmountAchievedTotal": 165,
+            "salesAmountAchievedTotal": 65,
             "revenue": [220, 700, 1500, 3040, 5899],
             "revenueTotal": 10000,
             "achievedPercentaged": [0.5, 13, 22, 65, 110]
@@ -59,7 +59,7 @@
             "event": "",
             "salesAmountPlanned": 50,
             "salesAmountAchieved": 45,
-            "salesAmountAchievedTotal": 45,
+            "salesAmountAchievedTotal": 98,
             "revenue": 200,
             "revenueTotal": 200,
             "achievedPercentaged": 95
