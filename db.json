@@ -1,24 +1,24 @@
 {
     "simdata": [
         {
-            "simName": "Test1",
-            "simStart": 1,
-            "simPeriod": 5,
-            "conc": 500,
+            "name": "Test1",
+            "start": 1,
+            "period": 5,
+            "competition": 500,
             "trader": 300,
             "salesAmount": 300000,
             "salesPrice": 89,
-            "seaFluc": true
+            "seasonalFluctuation": true
         },
         {
-            "simName": "Test2",
-            "simStart": 52,
-            "simPeriod": 10,
+            "name": "Test2",
+            "start": 52,
+            "period": 10,
             "conc": 300,
             "trader": 700,
             "salesAmount": 530000,
             "salesPrice": 99,
-            "seaFluc": false
+            "seasonalFluctuation": false
         }
     ],
     "result": [
