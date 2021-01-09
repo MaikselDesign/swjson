@@ -1,24 +1,10 @@
 {
     "simdata": [
         {
-            "name": "Test1",
-            "start": 1,
-            "period": 5,
-            "competition": 500,
-            "trader": 300,
-            "salesAmount": 300000,
-            "salesPrice": 89,
-            "seasonalFluctuation": true
+            "name": "Test1"
         },
         {
-            "name": "Test2",
-            "start": 52,
-            "period": 10,
-            "conc": 300,
-            "trader": 700,
-            "salesAmount": 530000,
-            "salesPrice": 99,
-            "seasonalFluctuation": false
+            "name": "Test2"
         }
     ],
     "result": [
