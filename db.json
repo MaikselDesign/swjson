@@ -2,11 +2,25 @@
     "simdata": [
         {
             "id": 1,
-            "name": "Test1"
+            "name": "Test1",
+            "start": 4,
+            "period": 2,
+            "trader": 100,
+            "competition": 40,
+            "salesAmount": 10000,
+            "salesPrice": 1.99,
+            "seasonalFluctuation": true
         },
         {
             "id": 2,
-            "name": "Test2"
+            "name": "Test2",
+            "start": 36,
+            "period": 17,
+            "trader": 852,
+            "competition": 134,
+            "salesAmount": 2000000,
+            "salesPrice": 0.89,
+            "seasonalFluctuation": true
         }
     ],
     "result": [
