@@ -22,49 +22,5 @@
             "salesPrice": 0.89,
             "seasonalFluctuation": true
         }
-    ],
-    "result": [
-        {
-            "id": 1,
-            "simName": "Test1",
-            "simStart": 5,
-            "simPeriod": 3,
-            "kw": [5, 6, 7],
-            "event": ["Fasching", "Weihnachten"],
-            "salesAmountPlanned": 200,
-            "salesAmountAchieved": [50, 30, 10],
-            "salesAmountAchievedTotal": 25,
-            "revenue": [87, 530, 1278],
-            "revenueTotal": 1860,
-            "achievedPercentaged": [5, 35, 87]
-        },
-        {
-            "id": 2,
-            "simName": "Test2",
-            "simStart": 38,
-            "simPeriod": 5,
-            "kw": [38, 39, 40 ,41 ,42],
-            "event": ["Grillsaison", "Ostern", "whatever"],
-            "salesAmountPlanned": 300,
-            "salesAmountAchieved": [50, 30, 10, 5, 70],
-            "salesAmountAchievedTotal": 65,
-            "revenue": [220, 700, 1500, 3040, 5899],
-            "revenueTotal": 10000,
-            "achievedPercentaged": [0.5, 13, 22, 65, 110]
-        },
-        {
-            "id": 3,
-            "simName": "Test3",
-            "simStart": 22,
-            "simPeriod": 1,
-            "kw": 22,
-            "event": "",
-            "salesAmountPlanned": 50,
-            "salesAmountAchieved": 45,
-            "salesAmountAchievedTotal": 98,
-            "revenue": 200,
-            "revenueTotal": 200,
-            "achievedPercentaged": 95
-        }
     ]
 }
